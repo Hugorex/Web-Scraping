@@ -7,6 +7,8 @@
  
 	•	extraeEnlaces.py → Versión anterior del script principal.
 
+	•	CISCO_IOS_INSTALLATION.md → Información sobre instalación de Cisco IOS (no relacionado con web scraping).
+
 #Iniciar el servidor
 Para comenzar, abre una terminal y ejecuta el siguiente comando dentro del directorio donde se encuentra victima.html:
 
