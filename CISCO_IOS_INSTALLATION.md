@@ -56,5 +56,6 @@ If you need to install a Cisco IOS image, please:
 If you intended to create a web scraping script related to downloading Cisco software, please clarify the requirement.
 
 ## Resources
-- [Cisco IOS Documentation](https://www.cisco.com/c/en/us/support/ios-nx-os-software/ios-15-1/series.html)
-- [Cisco Software Download](https://software.cisco.com/)
+- [Cisco IOS Software Documentation](https://www.cisco.com/c/en/us/support/ios-nx-os-software/index.html)
+- [Cisco Software Download Center](https://software.cisco.com/)
+- [Cisco Support Community](https://community.cisco.com/)
